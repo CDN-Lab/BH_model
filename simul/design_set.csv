@@ -1,4 +1,4 @@
-,time_null,time_reward,value_null,value_reward
+,cdd_immed_wait,cdd_delay_wait,cdd_immed_amt,cdd_delay_amt
 0,0,2,10,7
 1,0,2,10,14
 2,0,2,10,21
